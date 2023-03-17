@@ -1,5 +1,5 @@
 {
-  "name": "wellinks",
+  "name": "@chandu6839/navigation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "publishConfig": {
+    "@chandu6839:registry": "https://npm.pkg.github.com"
   }
 }
